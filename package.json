@@ -1,6 +1,6 @@
 {
   "name": "landingpage",
-  "homepage": "https://github.com/Shivam-vishwakarma991/React-Responsive-LandingPage",
+  "homepage": "https://Shivam-vishwakarma991.github.io/React-Responsive-LandingPage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,7 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-    
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
