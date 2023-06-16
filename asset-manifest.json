@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shivam-vishwakarma991/React-Responsive-LandingPage/static/css/main.f18bce79.css",
+    "main.js": "/Shivam-vishwakarma991/React-Responsive-LandingPage/static/js/main.e54b3171.js",
+    "static/media/logo.png": "/Shivam-vishwakarma991/React-Responsive-LandingPage/static/media/logo.802c56fb04a91b5c1789.png",
+    "index.html": "/Shivam-vishwakarma991/React-Responsive-LandingPage/index.html",
+    "main.f18bce79.css.map": "/Shivam-vishwakarma991/React-Responsive-LandingPage/static/css/main.f18bce79.css.map",
+    "main.e54b3171.js.map": "/Shivam-vishwakarma991/React-Responsive-LandingPage/static/js/main.e54b3171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18bce79.css",
+    "static/js/main.e54b3171.js"
+  ]
+}
