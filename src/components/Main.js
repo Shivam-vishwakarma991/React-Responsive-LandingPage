@@ -1,8 +1,8 @@
 import React from 'react'
 import {FaDatabase, FaAsterisk, FaAccusoft, FaFacebook, FaTwitter, FaGithub} from 'react-icons/fa'
-import './Hero.css'
+import './Main.css'
 
-const Hero = () => {
+const Main = () => {
     return (
         <div className='hero'>
             <div className='container'>
@@ -57,4 +57,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Main
